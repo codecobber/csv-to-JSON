@@ -1,0 +1,46 @@
+[
+    {
+        "id": "101",
+        "surname": "Boswell",
+        "firstname": "David",
+        "title": "developer",
+        "department": "technology",
+        "tel": "01236 555666",
+        "extension": "---",
+        "mobile": "030976558184",
+        "email": "test@test.com"
+    },
+    {
+        "id": "102",
+        "surname": "Jancor",
+        "firstname": "Jane",
+        "title": "developer",
+        "department": "finance",
+        "tel": "01736 52538477",
+        "extension": "---",
+        "mobile": "00003058184",
+        "email": "test@test.com"
+    },
+    {
+        "id": "103",
+        "surname": "Flaconi",
+        "firstname": "Pedro",
+        "title": "chef",
+        "department": "Hospitality",
+        "tel": "01296 555666",
+        "extension": "---",
+        "mobile": "01234567890",
+        "email": "test@test.com"
+    },
+    {
+        "id": "104",
+        "surname": "Smith",
+        "firstname": "Mary",
+        "title": "Manager",
+        "department": "finance",
+        "tel": "01236 555666",
+        "extension": "---",
+        "mobile": "0987654321",
+        "email": "test@test.com"
+    }
+]
